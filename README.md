@@ -2,7 +2,7 @@
 
 A stochastic simulation of repeated bingo games between four players who differ only in **how many cards they buy per game**. The goal is to explore how a buying strategy affects a player's money over time in a game with no real decision-making.
 
-![Money evolution over 100 games](images/money_evolution.png)
+![Money evolution over 100 games](money_evolution.png)
 
 ## Game rules implemented
 
